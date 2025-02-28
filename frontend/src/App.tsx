@@ -2,8 +2,8 @@ import { useState } from 'react';
 import ProductCard from './components/ProductCard';
 import productsData from './data/products.json';
 
-function App() {
-  const [products] = useState(productsData); // Using useState to store products data
+export default function App() {
+  const [products] = useState(productsData); 
 
   return (
     <div className="app">
@@ -16,6 +16,3 @@ function App() {
     </div>
   );
 }
-
-export default App;
-
