@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "name": "Classic White T-Shirt",
+    "description": "A simple, classic white t-shirt for everyday wear.",
+    "price": 19.99,
+    "image": "https://via.placeholder.com/150?text=Classic+White+T-Shirt",
+    "size": ["S", "M", "L", "XL"],
+    "color": ["White"],
+    "category": "T-shirts"
+  },
+  {
+    "id": 2,
+    "name": "Graphic Print T-Shirt",
+    "description": "A bold graphic design t-shirt for a casual look.",
+    "price": 25.99,
+    "image": "https://via.placeholder.com/150?text=Graphic+Print+T-Shirt",
+    "size": ["M", "L", "XL"],
+    "color": ["Black", "Gray", "Blue"],
+    "category": "T-shirts"
+  },
+  {
+    "id": 3,
+    "name": "Vintage Band T-Shirt",
+    "description": "A vintage band t-shirt with a retro design.",
+    "price": 29.99,
+    "image": "https://via.placeholder.com/150?text=Vintage+Band+T-Shirt",
+    "size": ["S", "M", "L"],
+    "color": ["Black", "Red"],
+    "category": "T-shirts"
+  }
+]
